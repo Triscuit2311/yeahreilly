@@ -1,0 +1,9 @@
+# CRX Packed File
+*.crx
+
+# certificate
+*.pem
+
+# macOS
+.DS_Store
+.LSOverride
